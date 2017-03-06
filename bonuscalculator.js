@@ -1,3 +1,5 @@
+//Anna Springfield, Craig Baird, Logan Kelly
+
 var tim = ["Tim", 4627, 15000, 2];
 var billy = ["Billy", 123, 45000, 5];
 var margaret = ["Margaret", 3333, 70000, 5];
