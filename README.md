@@ -15,6 +15,12 @@ These instructions will get you a copy of the project up and running on your loc
 - JavaScript
 - jQuery
 
+## Authors 
+
+- Craig Baird
+- Anna Springfield
+- Logan Kelley
+
 ## Assignment Instructions we were given:
 
 You are going to write a single JavaScript file to automatically calculate employee bonus for a company.
