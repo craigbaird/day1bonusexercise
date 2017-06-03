@@ -1,5 +1,5 @@
 # Bonus Calculator App
-A group assignment writing a single JavaScript file to automatically calculate employee bonus for a company.
+A group assignment writing a single JavaScript file to automatically calculate employee bonus for a hypothetical company.
 
 ## Getting Started
 
